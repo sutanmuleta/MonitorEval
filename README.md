@@ -134,6 +134,7 @@ python experiment_2b_inspect_eval.py
 
 
 
+<img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/20d3d1d2-1e24-4930-a83f-8a1c07c53de7" />
 
 
 ---
